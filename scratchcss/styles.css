@@ -141,8 +141,13 @@ h2 {
   box-shadow: 4px 4px 0px black;
 }
 
-<div class="footer">
-  visitors:<br>
-  <img src="YOUR-COUNTER-LINK-HERE">
-</div>
+.footer {
+  margin-top: 30px;
+  text-align: center;
 
+  font-family: monospace;
+  font-size: 14px;
+
+  border-top: 2px solid black;
+  padding-top: 10px;
+}
